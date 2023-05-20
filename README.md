@@ -1,0 +1,1 @@
+Copied from this repository https://github.com/whpthomas/tft-thumbnail but with changes to remove Windows line endings(CR-LF) to make the preview show properly on the TwoTrees Bluer printer with the MKS Robin nano v1.2 board
